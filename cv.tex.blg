@@ -1,0 +1,9 @@
+[0] Config.pm:304> INFO - This is Biber 2.13
+[0] Config.pm:307> INFO - Logfile is 'cv.tex.blg'
+[24] biber:315> INFO - === Tue Dec 10, 2019, 02:05:54
+[38] Biber.pm:375> INFO - Reading 'cv.tex.bcf'
+[106] Biber.pm:905> INFO - Found 0 citekeys in bib section 0
+[112] Utils.pm:300> WARN - The file 'cv.tex.bcf' does not contain any citations!
+[119] bbl.pm:648> INFO - Writing 'cv.tex.bbl' with encoding 'UTF-8'
+[120] bbl.pm:751> INFO - Output to cv.tex.bbl
+[120] Biber.pm:110> INFO - WARNINGS: 1
