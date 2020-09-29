@@ -1,5 +1,12 @@
 # Alexandre Gerona's Resume
-## Up to date as of 2019 December
+
+## Usage
+```sh
+xelatex cv.tex
+```
+This will output a `cv.pdf` to view.
+
+## Up to date as of 2020 September
 
 ### Credits:
 Theme, configuration, and font source: Adrien Friggeri.
