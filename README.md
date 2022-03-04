@@ -6,7 +6,7 @@ xelatex cv.tex
 ```
 This will output a `cv.pdf` to view.
 
-## Up to date as of 2020 September
+## Up to date as of 2022 March
 
 ### Credits:
 Theme, configuration, and font source: Adrien Friggeri.
